@@ -1,0 +1,1 @@
+This project focuses on analyzing and predicting student performance using data science and machine learning techniques. The dataset used contains information about students' academic records and related factors. The goal is to extract insights and build predictive models to assist educators and students in improving academic outcomes.
